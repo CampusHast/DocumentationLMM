@@ -26,6 +26,4 @@
 
 # Documentatie
 
-Voor de documentatie kan MkDocs inderdaad een goede statische site generator zijn. Eventueel gecombineerd met readme.so voor documentatie op basis van markdown bestanden in een Git repo. 
-
-Laat me weten als je specifieke onderdelen verder wil uitdiepen!
+De documentatie is met MkDocs opgezet als statische site generator.
