@@ -22,8 +22,12 @@
 
 - Rapportagefuncties en dashboard. 
 
-- Mobiele app voor uitleenproces met scanning/RFID.
+- Mobiele app voor uitleenproces met scanning/RFID. 
+
+- Laravel als overkoepelend framework.
+
+- PowerShell scripts via Intune voor beheer van Windows laptops.
 
 # Documentatie
 
-De documentatie is met MkDocs opgezet als statische site generator.
+De documentatie is met MkDocs opgezet als statische site generator. Hier gaat de incrementale 
