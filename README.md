@@ -30,4 +30,10 @@
 
 # Documentatie
 
-De documentatie is met MkDocs opgezet als statische site generator. Hier gaat de incrementale 
+De documentatie is met MkDocs opgezet als statische site generator. Hier gaat de incrementale documentatie komen voor de stapsgewijze opbouw van dit project.
+
+Om de website op te starten voer je onderstaande commando in termainal:
+
+```
+mkdocs serve
+```
