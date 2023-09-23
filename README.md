@@ -32,7 +32,7 @@
 
 De documentatie is met MkDocs opgezet als statische site generator. Hier gaat de incrementale documentatie komen voor de stapsgewijze opbouw van dit project.
 
-Om de website op te starten voer je onderstaande commando in termainal:
+Om de website op te starten voer je onderstaande commando in terminal:
 
 ```
 mkdocs serve
