@@ -1,10 +1,8 @@
 # Introductie
 
-- Doel is een overzicht van alle uitgeleende laptops, iPads, e-readers, etc. op een school of binnen een scholengemeenschap. 
+- Het doel is een management systeem te realiseren voor alle uitgeleende laptops, iPads, e-readers, etc. op de diverse middelbare scholen van de scholengemeenschap `Sint-Quintinus`.
 
-- Per toestel wil men bijhouden aan welke leerling het is uitgeleend, wanneer het is uitgeleend, contractdetails, etc.
-
-- Dit helpt het beheer, de uitleenprocessen en de administratie te stroomlijnen.
+- Per toestel wil men bijhouden aan welke leerling het is uitgeleend, of er een ondertekend uitleencontract aanwezig is, welk digitaal leermiddel is uitgeleend, wanneer het is uitgeleend, in welke staat het zich bevindt, welke bijbehorende accessoires zijn uitgeleend, contractdetails, etc.
 
 # Mogelijke oplossingen
 
